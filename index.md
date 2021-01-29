@@ -1,5 +1,7 @@
 I am a technologist that speaks plain English. I sometimes play The Bagpipes too!
 
+[GPG key](http://jamesgeddes.pro/gpg/jamesgeddes.txt)
+
 # Key Skills
 
 I am a Technical Business Analyst that can speak in plain English. Having worked with a wide variety of clients in an equally wide variety of sectors for over a decade, I engage with stakeholders at every level to ensure that operational objectives are achieved. I hold a Bachelor of Science degree in Computer Science & Cybernetics from The University of Reading.
