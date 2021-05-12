@@ -1,6 +1,7 @@
+<center>#BSc Hons Rdg MRi MIET MIEEE MBCS MIAP</center>
+
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
 
-- Postnominals: BSc Hons Rdg MIET MIEEE MBCS MIAP
 - [GPG key](http://jamesgeddes.pro/gpg/jamesgeddes.txt)
 - [Credly](https://www.credly.com/users/jamesgeddes/badges)
 
