@@ -1,5 +1,5 @@
 <center>
-**BSc Hons Rdg MRi MIET MIEEE MBCS MIAP**
+<strong>BSc Hons Rdg MRi MIET MIEEE MBCS MIAP</strong>
 </center>
 
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
