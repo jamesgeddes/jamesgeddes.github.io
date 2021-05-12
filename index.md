@@ -1,6 +1,9 @@
-I am a technologist that speaks plain English. I sometimes play The Bagpipes too!
+I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
 
-[GPG key](http://jamesgeddes.pro/gpg/jamesgeddes.txt)
+- Postnominals: BSc Hons Rdg MIET MIEEE MBCS MIAP
+- [GPG key](http://jamesgeddes.pro/gpg/jamesgeddes.txt)
+- [Credly](https://www.credly.com/users/jamesgeddes/badges)
+
 
 # Key Skills
 
@@ -10,17 +13,17 @@ I am a Technical Business Analyst that can speak in plain English. Having worked
 
 Qualifications are all well and good, but how does that help you?
 
-- **Process Automation**
+**Process Automation**
 
-- - I allow your team to focus on duties that are best suited for people
+I allow your team to focus on duties that are best suited for people
 
-- **Data Culture**
+**Data Culture**
 
-- - I help your team to better understand and improve success metrics
+I help your team to better understand and improve success metrics
 
-- **Training**
+**Training**
 
-- - I upskill your team so that they have the skills and mindset required for a data driven future
+I upskill your team so that they have the skills and mindset required for a data driven future
 
 > I automate the boring stuff
 > so that your people
@@ -61,9 +64,9 @@ Want some more details? My key technical skills include;
 
 # Geek.Zone
 
-I founded GeekZone in 2013 with the aim of connecting geeky people. Some still erroneously think that “geek” is a pejorative term, and why should it be? After all, a geek is someone who is knowledgeable, passionate and interested. Are these not positive qualities? Are these not the characteristics that are needed in order to improve society and the planet?
+I founded Geek.Zone in 2013 with the aim of connecting geeky people. Some still erroneously think that “geek” is a pejorative term, and why should it be? After all, a geek is someone who is knowledgeable, passionate and interested. Are these not positive qualities? Are these not the characteristics that are needed in order to improve society and the planet?
 
-Since 2013, GeekZone has grown to three Districts around Britain and has touched the lives of thousands of people. GeekZoneCoventry is even aiming to acquire its own physical space this year!
+Since 2013, Geek.Zone has grown to three Districts around Britain and has touched the lives of thousands of people. GeekZoneCoventry is even aiming to acquire its own physical space this year!
 
 # Interests
 
