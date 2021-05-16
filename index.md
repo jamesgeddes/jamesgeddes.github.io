@@ -1,9 +1,6 @@
-<center>
-<strong>BSc Hons Rdg MRi MIET MIEEE MBCS MIAP</strong>
-</center>
+# BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP
 
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
-
 
 [Qualifications](https://www.credly.com/users/jamesgeddes/badges)
 
