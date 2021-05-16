@@ -2,13 +2,11 @@
 
 ![Qualificaitons](assets/jdg-badges.jpg "Qualifications")
 
+[Verify](https://www.credly.com/users/jamesgeddes/badges)
+
 ***
 
-
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
-
-[Qualifications](https://www.credly.com/users/jamesgeddes/badges)
-
 
 # Key Skills
 
