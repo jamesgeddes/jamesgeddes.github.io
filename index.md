@@ -3,7 +3,8 @@
 
 </center>
 
-![James Geddes Credly Badges](jdg-badges.jpg "James Geddes Credly Badges")
+![James Geddes Credly Badges](https://github.com/jamesgeddes/jamesgeddes.github.io/blob/b92c9c8024bcd3c07c59f0ba6cef8c7e7b571af9/jdg-badges.jpg?raw=true "James Geddes Credly Badges")
+
 [Verify](https://www.credly.com/users/jamesgeddes/badges)
 
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
