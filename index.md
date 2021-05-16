@@ -1,5 +1,6 @@
 **BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP**
 
+![Qualificaitons]({{site.baseurl}}/jdg-badges "Qualifications")
 
 ***
 
