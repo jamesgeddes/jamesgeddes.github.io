@@ -1,7 +1,4 @@
-<center>
-<strong>BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP</strong><br /><br />
-
-</center>
+#BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP
 
 ![James Geddes Credly Badges](/jdg-badges.jpg "James Geddes Credly Badges")
 
