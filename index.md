@@ -1,6 +1,8 @@
-** BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP **
+**BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP**
 
-----
+
+***
+
 
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
 
