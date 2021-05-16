@@ -1,5 +1,7 @@
 <center>
-<strong>BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP</strong>
+<strong>BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP</strong><br /><br />
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d9ce0d7f-f4d2-4308-8ec7-b35b9ad4acab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6bf9b2a9-604f-4bcd-b319-127afc4a051e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="18e034df-9aaf-4d29-a323-d628cfffd570" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </center>
 
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
