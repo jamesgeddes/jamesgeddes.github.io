@@ -26,9 +26,7 @@ I help your team to better understand and improve success metrics
 
 I upskill your team so that they have the skills and mindset required for a data driven future
 
-> I automate the boring stuff
-> so that your people
-> can better add value
+**I automate the boring stuff so that your people can better add value.**
 
 ### Nitty Gritty
 
