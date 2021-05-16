@@ -34,9 +34,10 @@ I upskill your team so that they have the skills and mindset required for a data
 
 Want some more details? My key technical skills include;
 
-- Software Development
+#### Software Development
 
-- - Python
+  - Python
+  - Terraform
   - SQL; MySql, PostgreSQL, Microsoft SQL Server
   - Raspberry Pi
   - AWS
@@ -44,21 +45,21 @@ Want some more details? My key technical skills include;
   - PHP
   - CSS
 
-- Linux
+#### Linux
 
-- - Operating system & third party software, admin, installation, version upgrades, patches, performance analysis and optimisation.
+  - Operating system & third party software, admin, installation, version upgrades, patches, performance analysis and optimisation.
   - Debian, Ubuntu, Kali
   - RDBMS, internet services (such as web, SMTP, FTP), firewall, game (such as Minecraft), Virtualisation (VMWare). Enterprise backup. LAMP.
   - Grafana
 
-- Windows
+#### Windows
 
-- - Server; Firewall, AD & Exchange, configuration & management.
+  - Server; Firewall, AD & Exchange, configuration & management.
   - Client, Xp to 10; install, configuration, troubleshooting.
 
-- Networking
+#### Networking
 
-- - Managed Switches, Routers, WiFi Planning & Deployment, Cabling.
+  - Managed Switches, Routers, WiFi Planning & Deployment, Cabling.
   - HP, Netgear, Draytek, Zyxel, Draytek, Cisco, Netgear.
   - EPoS; Zonal, Micros, Verifone.
   - TCP, IP, SNMP, DNS, SMTP, NTP, DHCP.
