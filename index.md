@@ -1,8 +1,6 @@
 **BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP**
 
-![Qualificaitons](assets/jdg-badges.jpg "Qualifications")
-
-[Verify](https://www.credly.com/users/jamesgeddes/badges)
+[![Qualificaitons](assets/jdg-badges.jpg "Qualifications")Verify](https://www.credly.com/users/jamesgeddes/badges)
 
 ***
 
