@@ -1,9 +1,18 @@
 <center>
 <strong>BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP</strong><br /><br />
 
-<a href="https://www.credly.com/badges/d9ce0d7f-f4d2-4308-8ec7-b35b9ad4acab/public_url"><img src="https://images.credly.com/size/220x220/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" alt="Terraform Associate" /></a><a href="https://www.credly.com/badges/6bf9b2a9-604f-4bcd-b319-127afc4a051e/public_url"><img src="https://images.credly.com/size/220x220/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" alt="IBM Cybersecurity Analyst Professional Certificate"</a><a href="https://www.credly.com/badges/18e034df-9aaf-4d29-a323-d628cfffd570/public_url"><img src="https://images.credly.com/size/220x220/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png" alt="Deep Neural Networks with PyTorch" /></a>
+<a href="https://www.credly.com/badges/d9ce0d7f-f4d2-4308-8ec7-b35b9ad4acab/public_url"><img src="https://images.credly.com/size/100x100/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" alt="Terraform Associate" /></a>
+
+<a href="https://www.credly.com/badges/6bf9b2a9-604f-4bcd-b319-127afc4a051e/public_url"><img src="https://images.credly.com/size/100x100/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" alt="IBM Cybersecurity Analyst Professional Certificate"</a>
+
+<a href="https://www.credly.com/badges/18e034df-9aaf-4d29-a323-d628cfffd570/public_url"><img src="https://images.credly.com/size/100x100/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png" alt="Deep Neural Networks with PyTorch" /></a>
 
 </center>
+
+| [![Terraform Associate](https://images.credly.com/size/100x100/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png)](https://www.credly.com/badges/6bf9b2a9-604f-4bcd-b319-127afc4a051e/public_url) | [![IBM Cybersecurity Analyst Professional Certificate](https://images.credly.com/size/100x100/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png)](https://www.credly.com/badges/6bf9b2a9-604f-4bcd-b319-127afc4a051e/public_url) | [![Deep Neural Networks with PyTorch](https://images.credly.com/size/100x100/images/6be9e507-9096-4e18-aef8-e60893ed36c6/IBM_AI_-Deep_Neural_Networks_with_PyTorch.png)](https://www.credly.com/badges/18e034df-9aaf-4d29-a323-d628cfffd570/public_url) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 
 I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
 
