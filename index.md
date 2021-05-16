@@ -4,7 +4,7 @@
 
 ***
 
-I am a technologist that speaks plain English. I sometimes play the Bagpipes too!
+I am a technologist who speaks plain English. I sometimes play the Bagpipes too!
 
 # Key Skills
 
