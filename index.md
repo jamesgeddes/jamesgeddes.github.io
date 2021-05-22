@@ -64,9 +64,15 @@ Want some more details? My key technical skills include;
 
 # Geek.Zone
 
-I founded Geek.Zone in 2013 with the aim of connecting geeky people. Some still erroneously think that “geek” is a pejorative term, and why should it be? After all, a geek is someone who is knowledgeable, passionate and interested. Are these not positive qualities? Are these not the characteristics that are needed in order to improve society and the planet?
+I founded [Geek.Zone](http://Geek.Zone) in 2013 with the aim of connecting geeky people. Some still erroneously think that “geek” is a pejorative term, and why should it be? After all, a geek is someone who is knowledgeable, passionate and interested. Are these not positive qualities? Are these not the characteristics that are needed in order to improve society and the planet?
 
-Since 2013, Geek.Zone has grown to three Districts around Britain and has touched the lives of thousands of people. GeekZoneCoventry is even aiming to acquire its own physical space this year!
+Since 2013, Geek.Zone has
+
+- grown to three Districts around Britain.
+- touched the lives of thousands of people.
+- been recognised with UK registered charity status.
+
+Our next step is to open [Geek.Zone/01](http://geek.zone/01) in Coventry, our first 24/7 community hub. [Support us now])https://link.justgiving.com/v1/campaign/donate/campaignGuid/f245c00d-ce79-4fa4-959f-c266cdb6a3ba?currency=GBP&amount=50)!
 
 # Interests
 
@@ -78,11 +84,15 @@ One of my earliest passions is certainly aviation. The mechanics and engineering
 
 # Gifts
 
-If you feel like doing something awesome for me for any reason - perhaps I helped you solve a problem, perhaps it's my birthday, perhaps you are just feeling like a wonderful person! I would be very grateful of a gift via any of these great places.
+If you feel like doing something awesome for me for any reason, I would be very grateful of a gift via any of these great places!
 
 - [Steam](https://store.steampowered.com/wishlist/id/jamesgeddes#sort=reviewscore)
 - [Amazon](https://www.amazon.co.uk/hz/wishlist/ls/WS5TGJQ9K8BS?ref_=wl_share)
 - [PayPal](https://www.paypal.me/jamesgeddes)
+
+
+Please [Dont Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws)! Physical greetings cards go in the bin within a few days, so sending an ecard via [Dont Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws) instead allows you to support my favourite charity, Geek.Zone.
+
 
 # Contact
 
@@ -91,5 +101,6 @@ If you feel like doing something awesome for me for any reason - perhaps I helpe
 - [LinkedIn](https://www.linkedin.com/in/jamesgeddes/)
 - [Twitter](https://twitter.com/JamesGeddes)
 - [Facebook](https://facebook.com/JamesGeddes)
+- [GitHub](https://github.com/jamesgeddes)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:JamesGeddes)
 - [GPG key](http://jamesgeddes.pro/gpg/jamesgeddes.txt)
