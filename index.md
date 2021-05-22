@@ -72,7 +72,7 @@ Since 2013, Geek.Zone has
 - touched the lives of thousands of people.
 - been recognised with UK registered charity status.
 
-Our next step is to open [Geek.Zone/01](http://geek.zone/01) in Coventry, our first 24/7 community hub. [Support us now])https://link.justgiving.com/v1/campaign/donate/campaignGuid/f245c00d-ce79-4fa4-959f-c266cdb6a3ba?currency=GBP&amount=50)!
+Our next step is to open [Geek.Zone/01](http://geek.zone/01) in Coventry, our first 24/7 community hub. [Support us now](https://link.justgiving.com/v1/campaign/donate/campaignGuid/f245c00d-ce79-4fa4-959f-c266cdb6a3ba?currency=GBP&amount=50)!
 
 # Interests
 
