@@ -96,8 +96,9 @@ Please [Dont Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws)! Ph
 
 # Contact
 
-- Phone: +44 (0) 7952142629
-- Email: j@jamesgeddes.pro
+- Phone: [+44 (0) 7952142629](tel:+44 (0) 7952142629)
+- Email: [j@jamesgeddes.pro](mailto:j@jamesgeddes.pro)
+- [Book a meeting](https://calendly.com/jamesgeddes/60min)
 - [LinkedIn](https://www.linkedin.com/in/jamesgeddes/)
 - [Twitter](https://twitter.com/JamesGeddes)
 - [Facebook](https://facebook.com/JamesGeddes)
