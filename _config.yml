@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
 title: James Geddes
 description: Nerdy since narrowband
-exclude:
-  - /gpg/
 page.redirect_from: /meeting
 redirect_to: https://calendly.com/jamesgeddes/60min
