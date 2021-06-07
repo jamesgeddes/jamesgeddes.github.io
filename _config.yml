@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: James Geddes
 description: Nerdy since narrowband
+exclude:
+  - meeting*
+  - gpg*
+
