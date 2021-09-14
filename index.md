@@ -110,9 +110,10 @@ allows you to support my favourite charity, Geek.Zone.
 
 # Contact
 
-- Phone: [+44 (0) 7952142629](tel:+44 (0) 7952142629)
+The best way to contact me is to [select a time](https://jamesgeddes.pro/meeting) for us to talk.
+
+- Phone: [+44 (0) 7952142629](tel:+44 (0) 7952142629) - please [book a meeting](https://jamesgeddes.pro/meeting) before calling.
 - Email: [j@jamesgeddes.pro](mailto:j@jamesgeddes.pro)
-- [Book a meeting](https://calendly.com/jamesgeddes/60min)
 - [LinkedIn](https://www.linkedin.com/in/jamesgeddes/)
 - [Twitter](https://twitter.com/JamesGeddes)
 - [Facebook](https://facebook.com/JamesGeddes)
