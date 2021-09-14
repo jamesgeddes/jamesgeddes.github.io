@@ -41,7 +41,7 @@ Want some more details? My key technical skills include;
   - Python
   - AWS
   - Terraform
-  - CI/CD; Circle CI, Concourse
+  - CI/CD; CircleCI, GitHub Actions, Concourse
   - SQL; MySql, PostgreSQL, Microsoft SQL Server
   - Raspberry Pi
 
