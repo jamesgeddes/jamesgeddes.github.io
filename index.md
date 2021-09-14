@@ -23,7 +23,8 @@ I allow your team to focus on duties that are best suited for people.
 
 **Data Culture**
 
-I help your team to obtain a *data first* mindset, so that they can better understand and improve success metrics.
+I help your team to obtain a *data first* and *DevOps* mindset, so that they can better understand and improve success
+metrics.
 
 **Training**
 
