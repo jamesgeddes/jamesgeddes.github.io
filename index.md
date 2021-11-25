@@ -8,10 +8,9 @@ I am a technologist who speaks plain English. I sometimes play the Bagpipes too!
 
 # Key Skills
 
-I am a Technical Business Analyst that can speak in plain English. Having worked with a wide variety of clients in an
-equally wide variety of sectors for over a decade, I engage with stakeholders at every level to ensure that operational
-objectives are achieved. I hold a Bachelor of Science degree in Computer Science & Cybernetics from The University of
-Reading.
+I engage with stakeholders at every level to ensure that operational
+objectives are achieved. Having worked with a wide variety of clients in an
+equally wide variety of sectors for over a decade, my breadth of experience helps me to bring teams together and solve key challenges.
 
 ### Unique Value Proposition
 
