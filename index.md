@@ -1,4 +1,4 @@
-`BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP`
+**BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP**
 
 [![Qualificaitons](assets/jdg-badges.jpg "Qualifications")](https://www.credly.com/users/jamesgeddes/badges)
 
