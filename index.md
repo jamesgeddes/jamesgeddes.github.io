@@ -77,21 +77,26 @@ society and the planet?
 
 Since 2013, Geek.Zone has
 
-- grown to three Districts around Britain.
-- touched the lives of thousands of people.
-- been recognised with UK registered charity status.
+- Grown to three Districts around Britain.
+- Touched the lives of thousands of people.
+- Been recognised with UK registered charity status.
+- Been awarded membership of internationally recognised organisations, such as OpenUK, Creative Commons & The Open Source Initiative.
 
 Our next step is to open [Geek.Zone/01](http://geek.zone/01) in Coventry, our first 24/7 community hub.
 [Support us now](https://link.justgiving.com/v1/campaign/donate/campaignGuid/f245c00d-ce79-4fa4-959f-c266cdb6a3ba?currency=GBP&amount=50)!
+
 ##Motoring
-Aside from technology, my interests are rather varied. They include classic motoring, ranging from my beautiful 1982
+
+Aside from technology, my interests are somewhat varied. They include classic motoring, ranging from my beautiful 1982
 Mini HLE, up to the Routemaster, which I have had the good fortune to have a go at driving!
 
 ##Bagpipes
+
 I also play the Great Highland Bagpipes. I do understand that this is quite a “Marmite” instrument, however they have
 taken me on some great adventures, such as folk festivals across Europe and hundred-piper massed bands.
 
 ##Aviation
+
 One of my earliest passions is certainly aviation. The mechanics and engineering that goes into every square centimetre
 of an aircraft design is simply stunning. I am certainly looking forward to attaining my Private Pilots Licence!
 
@@ -106,8 +111,8 @@ great places!
 - [PayPal](https://www.paypal.me/jamesgeddes)
 
 
-Please [Dont Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws)! Physical greetings cards go in the bin
-within a few days, so sending an ecard via [Dont Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws) instead
+Please [Don't Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws)! Physical greetings cards go in the bin
+within a few days, so sending an ecard via [Don't Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws) instead
 allows you to support my favourite charity, Geek.Zone.
 
 
