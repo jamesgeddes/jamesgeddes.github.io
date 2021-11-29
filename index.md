@@ -85,17 +85,17 @@ Since 2013, Geek.Zone has
 Our next step is to open [Geek.Zone/01](http://geek.zone/01) in Coventry, our first 24/7 community hub.
 [Support us now](https://link.justgiving.com/v1/campaign/donate/campaignGuid/f245c00d-ce79-4fa4-959f-c266cdb6a3ba?currency=GBP&amount=50)!
 
-##Motoring
+## Motoring
 
 Aside from technology, my interests are somewhat varied. They include classic motoring, ranging from my beautiful 1982
 Mini HLE, up to the Routemaster, which I have had the good fortune to have a go at driving!
 
-##Bagpipes
+## Bagpipes
 
 I also play the Great Highland Bagpipes. I do understand that this is quite a “Marmite” instrument, however they have
 taken me on some great adventures, such as folk festivals across Europe and hundred-piper massed bands.
 
-##Aviation
+## Aviation
 
 One of my earliest passions is certainly aviation. The mechanics and engineering that goes into every square centimetre
 of an aircraft design is simply stunning. I am certainly looking forward to attaining my Private Pilots Licence!
