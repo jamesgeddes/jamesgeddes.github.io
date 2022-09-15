@@ -1,4 +1,4 @@
-> **BSc Hons Rdg FRSA FMHC MRi MIET MIEEE MBCS MCybS MIAP**
+> James Geddes **BSc Hons Rdg FRSA FMHC FInstCPD MRi MIET MIEEE MBCS MCybS MIAP**
 
 [![Qualificaitons](assets/jdg-badges.jpg "Qualifications")](https://www.credly.com/users/jamesgeddes/badges)
 
