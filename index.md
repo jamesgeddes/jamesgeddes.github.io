@@ -1,4 +1,4 @@
-> James Geddes **BSc Hons Rdg FRSA FMHC FInstCPD MRi MIET MIEEE MBCS MCybS MIAP**
+> James Geddes **BSc Hons Rdg FRSA FInstCPD MRi MIET MIEEE MBCS MCybS MIAP**
 
 [![Qualificaitons](assets/2022-10-jdg-badges.jpg "Qualifications")](https://www.credly.com/users/jamesgeddes/badges)
 
@@ -128,3 +128,4 @@ The best way to contact me is to [select a time](https://jamesgeddes.pro/meeting
 - [GitHub](https://github.com/jamesgeddes)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:JamesGeddes)
 - [GPG key](http://jamesgeddes.pro/gpg/jamesgeddes.txt)
+- [SSH key](http://jamesgeddes.pro/ssh/id_rsa.pub)
