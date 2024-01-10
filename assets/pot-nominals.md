@@ -1,1 +1,0 @@
-BSc Hons Rdg MRi MIET MIEEE MBCS MCybS MIAP
