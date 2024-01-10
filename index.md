@@ -1,6 +1,6 @@
 > James Geddes **BSc Hons Rdg FRSA FInstCPD MRi MIET MIEEE MBCS MCybS MIAP**
 
-[![Qualificaitons](assets/2022-10-jdg-badges.jpg "Qualifications")](https://www.credly.com/users/jamesgeddes/badges)
+[![Qualificaitons](assets/badges.png "Qualifications")](https://www.credly.com/users/jamesgeddes/badges)
 
 ***
 
@@ -92,7 +92,7 @@ Mini HLE, up to the Routemaster, which I have had the good fortune to have a go 
 
 ## Bagpipes
 
-I also play the Great Highland Bagpipes. I do understand that this is quite a “Marmite” instrument, however they have
+I also play the Great Highland Bagpipes. While this is arguably quite a “Marmite” instrument, they have
 taken me on some great adventures, such as folk festivals across Europe and hundred-piper massed bands.
 
 ## Aviation
@@ -105,13 +105,13 @@ of an aircraft design is simply stunning. I am certainly looking forward to atta
 If you feel like doing something awesome for me for any reason, I would be very grateful of a gift via any of these
 great places!
 
-- [Ko-fi](https://ko-fi.com/jamesgeddes)
 - [Amazon](https://www.amazon.co.uk/hz/wishlist/ls/WS5TGJQ9K8BS?ref_=wl_share)
-- [Steam](https://store.steampowered.com/wishlist/id/jamesgeddes#sort=reviewscore)
+- [Ko-fi](https://ko-fi.com/jamesgeddes)
 - [PayPal](https://www.paypal.me/jamesgeddes)
+- [Steam](https://store.steampowered.com/wishlist/id/jamesgeddes#sort=reviewscore)
 
 
-Please [Don't Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws)! Physical greetings cards go in the bin
+Please *[Don't Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws)*! Physical greetings cards go in the bin
 within a few days, so sending an ecard via [Don't Send Me A Card](https://www.dontsendmeacard.com/charities/6Iws) instead
 allows you to support my favourite charity, Geek.Zone.
 
@@ -123,9 +123,9 @@ The best way to contact me is to [select a time](https://jamesgeddes.pro/meeting
 - [Phone](https://jamesgeddes.pro/meeting)
 - [Email](mailto:j@jamesgeddes.pro)
 - [LinkedIn](https://www.linkedin.com/in/jamesgeddes/)
-- [Twitter](https://twitter.com/JamesGeddes)
+- [X](https://x.com/JamesGeddes)
 - [Facebook](https://facebook.com/JamesGeddes)
 - [GitHub](https://github.com/jamesgeddes)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:JamesGeddes)
 - [GPG key](http://jamesgeddes.pro/gpg/jamesgeddes.txt)
-- [SSH key](http://jamesgeddes.pro/ssh/id_rsa.pub)
+- [SSH key](http://jamesgeddes.pro/ssh/id_ed25519.pub)
